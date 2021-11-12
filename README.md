@@ -1,5 +1,8 @@
 # Statistics for Data Science
+
 Syllabus of Statistics 
+
+
 1 Introduction and type of data, Types of data, Descriptive and Inferential statistics, Scales of measurement 
 
 2 Describing categorical data Frequency distribution of categorical data, Best practices for graphing categorical data, Mode and median for categorical variable 
